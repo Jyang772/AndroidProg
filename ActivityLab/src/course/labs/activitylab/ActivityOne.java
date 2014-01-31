@@ -1,4 +1,4 @@
-//Justin
+//Justin Yang
 package course.labs.activitylab;
 
 import android.app.Activity;
